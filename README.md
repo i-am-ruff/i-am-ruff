@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FurC0de
+Hey 👋, I'm Ruff
+
 - 👀 I’m interested in gamedev, IOT, computer vision, sound processing and other funny stuff
 - 😍 My favourite languages are C#, C++ and Dart
 - 🌱 I’m currently learning raytracing techniques
