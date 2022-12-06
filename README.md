@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FurC0de/FurC0de/blob/a8bc83d176fd522304926a3755b6edfde7997488/greeting-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/FurC0de/FurC0de/blob/a8bc83d176fd522304926a3755b6edfde7997488/greeting-light.png">
-      <img alt="It's me, Mario!" src="https://github.com/FurC0de/FurC0de/blob/a8bc83d176fd522304926a3755b6edfde7997488/greeting-dark.png">
+      <img alt="It's me, Mario!" src="https://github.com/FurC0de/FurC0de/blob/a8bc83d176fd522304926a3755b6edfde7997488/greeting-light.png">
     </picture>
 </p>
 <p align="center">
