@@ -1,4 +1,7 @@
-### Hey 👋, I'm Ruff
+<h1 align="center">Hey 👋, I'm Ruff, version 42</h1>
+<p align="center">
+    <img width="280" src="steps_1d1s.gif" alt="Sound transient analysis & visualization project">
+</p>
 
 #### 👀 I’m interested in gamedev, IOT, computer vision, sound processing and other funny stuff
 #### 😍 My favourite languages are C#, C++ and Dart
