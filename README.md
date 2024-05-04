@@ -13,7 +13,6 @@
 
 #### 👀 I’m interested in gamedev, IOT, computer vision, sound processing and other funny stuff
 #### 😍 My favourite languages are C#, C++ and Dart
-#### 🌱 I’m currently learning raytracing techniques
 #### 💞️ I’m looking to collaborate on anything related to the things I'm interested in. 
 #### 🤙 If you need any help just message me, I am open for any type of collaboration 😏
 #### 📫 You can reach me in Telegram @i-am-ruff
